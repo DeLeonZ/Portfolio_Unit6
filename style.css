@@ -1,19 +1,21 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://s-media-cache-ak0.pinimg.com/originals/45/cf/0b/45cf0b3b05f0c11f0baa7670d74b07c2.jpg");
       background-size: cover;
-      color: white;
+      color: black;
     }
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+      font-family: 'Shadows Into Light Two', cursive;
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
+      margin: 20px 0px 0px 0px;
+      border: 70px solid white;
       border-radius: 20px;
+      height: 200px;
     }
     ul {
       padding: 10px;
